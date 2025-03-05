@@ -1,4 +1,4 @@
-# Remote-Work-Mental-Health-Analysis
+# Remote-Work/Mental-Health-in-Workplaces-Analysis
 
 ## Project Overview
 This project explores the impact of remote work on employees' mental health. Using a dataset from Kaggle, we analyzed key factors such as work-life balance, stress levels, and company support to uncover insights that can help improve workplace mental health policies.
